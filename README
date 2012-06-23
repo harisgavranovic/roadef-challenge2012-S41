@@ -1,0 +1,9 @@
+This is the final submission for the team S41. 
+
+To compile go to Realesegcc and run 'make clean' and then 'make'.
+
+The executable submitted to the Organizing commitee was compiled with Intel compiler icc using available profiling options and is usually faster 10-15 % than the one obtained with gcc. You can find this executable in the top directory. 
+
+Haris Gavranovic
+S41 team
+
